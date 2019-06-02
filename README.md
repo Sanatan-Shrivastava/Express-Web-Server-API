@@ -6,4 +6,4 @@ This is a `Web server API` made in express for a login system, integrated with B
 1. Clone this Repository.
 2. Run `npm install` .
 3. Run `npm start` . 
-Your server will start running on Port 3000.
+4. Your server will start running on Port 3000.
